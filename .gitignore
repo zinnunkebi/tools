@@ -1,5 +1,7 @@
 .vs/
 tinymakediff.zip
-tinymakediff/tinymakediff.exe
-tinymakediff/tinymakediff.ini
-tinymakediff/tinymakediff.log
+tinymakediff/*
+ora2csv.zip
+ora2csv/*
+pg2csv.zip
+pg2csv/*
